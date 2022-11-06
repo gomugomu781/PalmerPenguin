@@ -6,3 +6,5 @@ I Create a visual for palmer penguins dataset
 first i clean some data, by removing NA values
 
 then i start to create data visualization with R
+
+![Rplot001](https://user-images.githubusercontent.com/88125042/200154253-5017251b-b481-4a3a-863b-728cb305d070.png)
